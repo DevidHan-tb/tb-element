@@ -1,5 +1,5 @@
 {
-  "name": "easyest",
+  "name": "easyest-htb",
   "version": "1.0.0",
   "main": "lib/index.js",
   "module": "es/index.mjs",
@@ -17,6 +17,6 @@
   "author": "天宝",
   "license": "MIT",
   "description": "",
-  "typings": "lib/index.d.ts",
+  "typings": "lib/index.d.ts"
 }
 
